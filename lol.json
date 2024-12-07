@@ -1,0 +1,30 @@
+{
+  "name": "Nabzclan - IPA Library",
+  "subtitle": "Welcome to the Nabzclan - Your Premium IPA Library Repository",
+  "description": "Welcome to the Nabzclan - IPA Library Repo!",
+  "iconURL": "https://cdn.nabzclan.vip/imgs/logo/logo_400x400.jpg",
+  "headerURL": "https://cdn.nabzclan.vip/imgs/logo/logo_400x400.jpg",
+  "website": "https://apps.nabzclan.vip/",
+  "patreonURL": "https://patreon.com/nabzclan",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.picsart.studio"
+  ],
+  "apps": [
+    {
+      "name": "PicsArt - (Hacked)",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "Nabzclan",
+      "subtitle": "Features: Cracked GOLD",
+      "localizedDescription": "Features: Cracked GOLD",
+      "iconURL": "https://apps.nabzclan.vip/images/1696554255.webp",
+      "downloadURLs": [
+        {
+          "platform": "iOS",
+          "url": "https://apps.nabzclan.vip/external-download/1008"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
