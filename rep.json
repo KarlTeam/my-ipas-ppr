@@ -1,18 +1,22 @@
 {
   "name": "Nabzclan - IPA Library",
-  "identifier": "com.nabzclan.repo.altstore",
   "subtitle": "Your Premium IPA Library Repository",
   "description": "Welcome to the Nabzclan - IPA Library Repo!",
   "iconURL": "https://cdn.nabzclan.vip/imgs/logo/logo_400x400.jpg",
   "headerURL": "https://cdn.nabzclan.vip/imgs/logo/logo_400x400.jpg",
-  "website": "https://apps.nabzclan.vip/",
+  "website": "https://apps.nabzclan.vip",
+  "patreonURL": "https://patreon.com/nabzclan",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.picsart.studio"
+  ],
   "apps": [
     {
       "name": "PicsArt - (Hacked)",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "Nabzclan",
       "subtitle": "Features: Cracked GOLD",
-      "localizedDescription": "Features: Cracked GOLD",
+      "localizedDescription": "Unlock premium features with the cracked GOLD version of PicsArt.",
       "iconURL": "https://apps.nabzclan.vip/images/1696554255.webp",
       "versions": [
         {
@@ -21,13 +25,6 @@
           "localizedDescription": "Current version of PicsArt - (Hacked) - 26.2.1",
           "downloadURL": "https://apps.nabzclan.vip/external-download/1008",
           "size": 122054246
-        },
-        {
-          "version": "23.3.3",
-          "date": "2023-10-06T01:04:15Z",
-          "localizedDescription": "Old Version of PicsArt - (Hacked) - 23.3.3",
-          "downloadURL": "https://apps.nabzclan.vip/external-download/253",
-          "size": 95892275
         },
         {
           "version": "25.9.3",
@@ -39,14 +36,5 @@
       ]
     }
   ],
-  "news": [
-    {
-      "title": "Welcome to Nabzclan - IPA Library Repo!",
-      "identifier": "vip.nabzclan.public.init",
-      "caption": "Tap to open our IPA Library",
-      "date": "2023-01-01T00:00:00Z",
-      "imageURL": "https://cdn.nabzclan.vip/imgs/logo/logo_400x400.jpg",
-      "url": "https://apps.nabzclan.vip/"
-    }
-  ]
+  "news": []
 }
